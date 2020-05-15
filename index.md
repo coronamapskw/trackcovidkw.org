@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TrackCOVIDKW.org
+title: TrackCOVIDKW.com
 ---
 # COVID-19 Community Tracking Kuwait
 
