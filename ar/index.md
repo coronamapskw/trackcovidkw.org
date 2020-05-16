@@ -2,7 +2,7 @@
 layout: default
 lang: ar
 ref: home
-title: TrackCOVIDKW.com
+title: الرئيسية
 ---
-# صفحة تتبعة كوفيد-١٩ في الكويت
+# صفحة تتبع كوفيد-١٩ في الكويت
 
