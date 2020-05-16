@@ -1,5 +1,7 @@
 ---
 layout: default
+lang: en
+ref: home
 title: TrackCOVIDKW.com
 ---
 # COVID-19 Community Tracking Kuwait

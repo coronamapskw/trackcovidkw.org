@@ -7,6 +7,10 @@ layout: compress
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+    {% for page in pages %}
+    <link rel="alternate" hreflang="{{ page.lang }}" href="{{ page.url }}" />
+    {% endfor %}
 
     <style>
       html {
@@ -104,12 +108,12 @@ layout: compress
         text-decoration: none;
       }
 
-      header div {
+      header div#logo {
         display: flex;
         align-items: center;
       }
 
-      header div img:first-child {
+      header div#logo img:first-child {
         height: 2.5em;
         width: 2.5em;
         margin-right: 0.5em;
@@ -147,11 +151,25 @@ layout: compress
   </head>
   <body>
     <header>
+      <div>
+      {% if page.layout != 'index' %}
+        {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+        {% if pages.size > 1 %}
+        <nav>
+          {% for page in pages %}
+          <a href="{{ site.base_url }}{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+          {% endfor %}
+        </nav>
+        {% endif %}
+      {% endif %}
+      </div>
+      <div>
       <nav>
         <a href="/">Home</a>
         <a href="/faq/">FAQ</a>
         <a href="/info-for-participants/">Information for Participants</a>
-      </ul>
+      </nav>
+      </div>
     </header>
 
     {{ content }}

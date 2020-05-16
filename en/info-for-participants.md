@@ -1,5 +1,7 @@
 ---
 layout: default
+lang: en
+ref: info-for-participants
 title: Information for Participants
 ---
 # Information for Participants
