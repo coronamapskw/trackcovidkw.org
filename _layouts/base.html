@@ -1,0 +1,175 @@
+---
+layout: compress
+---
+<!doctype html>
+<html lang="{{ page.lang }}" dir="{{ site.data.languages[page.lang].dir }}">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+    {% for page in pages %}
+    <link rel="alternate" hreflang="{{ page.lang }}" href="{{ page.url }}" />
+    {% endfor %}
+
+    <style>
+      html {
+        --main-color: #3E4046;
+        --hover-color: black;
+        --borders-color: #E1E2EA;
+        --shaded-bg-color: ghostwhite;
+        --main-font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+      }
+
+      hr {
+        border: 0;
+        margin: 1rem 0;
+        border-top: 2px solid rgba(0,0,0,0.1);
+      }
+
+      li {
+        margin-bottom: 1em;
+      }
+
+      a {
+        color: var(--main-color);
+      }
+
+      a svg {
+        fill: var(--main-color);
+      }
+
+      a:hover {
+        color: var(--hover-color);
+      }
+
+      a:hover svg {
+        fill: var(--hover-color);
+      }
+
+      h2, h3 {
+        margin-top: 2em;
+      }
+
+      body {
+        font-family: var(--main-font);
+        line-height: 1.5;
+        font-size: 1.125em;
+        color: var(--main-color);
+      }
+
+      input, button, textarea {
+        font-family: inherit;
+        color: inherit;
+        font-size: inherit;
+        padding: 0.5em 1em;
+        border-radius: 0.5em;
+        border: 2px solid var(--borders-color);
+      }
+
+      button {
+        background-color: var(--main-color);
+        border-color: var(--main-color);
+        color: white;
+        cursor: pointer;
+        opacity: 0.8;
+      }
+
+      button:hover {
+        opacity: 1.0;
+      }
+
+      @media only screen and (min-width: 620px) {
+        body {
+          max-width: 600px;
+          margin: auto;
+        }
+
+        header {
+          flex-direction: row;
+        }
+      }
+
+      @media only screen and (max-width: 620px) {
+        header {
+          flex-direction: column;
+        }
+      }
+
+      header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        border-bottom: 2px solid var(--borders-color);
+        margin-bottom: 2.5em;
+      }
+
+      header div#logo {
+        display: flex;
+        align-items: center;
+      }
+
+      header div#logo img:first-child {
+        height: 2.5em;
+        width: 2.5em;
+        margin-right: 0.5em;
+        border-radius: 0.5em;
+        border: 2px solid var(--main-color);
+      }
+
+      header nav {
+        display: flex;
+        justify-content: flex-end;
+      }
+
+      header nav a {
+        display: block;
+        padding: 1em;
+        text-decoration: none;
+      }
+
+      
+      #languages a {
+        text-decoration: none;
+        padding: 0.25em;
+      }
+
+      nav#languages {
+        display: flex;
+        justify-content: space-between;
+        padding-bottom: 1.5rem;
+      }
+
+      footer {
+        text-align: center;
+        margin-top: 2.5em;
+        padding-top: 1em;
+        border-top: 2px solid var(--borders-color);
+      }
+
+      footer a {
+        padding: 0 0.5em;
+      }
+
+      .img-fluid {
+        max-width: 100%;
+        height: auto;
+      }
+
+      {% for l in site.data.languages %}
+      .{{ l[0] }}:lang({{ l[0] }}){% if forloop.last == false %},{% endif %}
+      {% endfor %}
+      {
+        font-weight: bold;
+      }
+    </style>
+    <title>{{ page.title }} &mdash; {{ site.title }}</title>
+  </head>
+
+    {{ content }}
+
+    <footer>
+      <p>&copy; 2020 TrackCOVIDKW.com</p>
+    </footer>
+  </body>
+</html>

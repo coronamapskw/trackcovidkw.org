@@ -1,0 +1,6 @@
+ar:
+  label: العربية
+  dir: rtl
+en:
+  label: English
+  dir: ltr

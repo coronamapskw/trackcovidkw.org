@@ -2,7 +2,7 @@
 layout: default
 lang: en
 ref: home
-title: TrackCOVIDKW.com
+title: Home
 ---
 # COVID-19 Community Tracking Kuwait
 
