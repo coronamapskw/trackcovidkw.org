@@ -8,7 +8,7 @@ title: FAQs
 
 #### Who is behind this campaign?
 
-The COVID-19 tracker was created by several independent researchers in the CoronaMapsKW community.
+The COVID-19 tracker was created by several independent researchers in the [CoronaMapsKW](https://www.coronamapskw.com) community.
 
 #### What is the goal of the campaign?
 
