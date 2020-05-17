@@ -19,4 +19,4 @@ By clicking Start the Survey Button, you are providing your consent to participa
 
 **The survey form is not a tool to diagnose whether you have contracted COVID-19 or not.**
 
-**If you're feeling unwell, contact the [Ministry of Health Hotline (151)](tel:151).**
+**If you're feeling unwell, contact the [Ministry of Health hotline (151)](tel:151).**

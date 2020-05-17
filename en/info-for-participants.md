@@ -29,4 +29,4 @@ The researchers Dr. Dari Alhuwail and Dr. Saad Alsharrah welcome any queries –
 
 
 
-**Note that the form is not a tool to diagnose whether you have contracted COVID-19 or not. If you're feeling unwell, contact the [Ministry of Health Hotline (151)](tel:151).**
+**Note that the form is not a tool to diagnose whether you have contracted COVID-19 or not. If you're feeling unwell, contact the [Ministry of Health hotline (151)](tel:151).**
