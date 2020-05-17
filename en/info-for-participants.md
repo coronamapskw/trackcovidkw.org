@@ -24,6 +24,6 @@ title: Information for Participants
 * You can withdraw from the study at any time without giving reasons.
 Compensation: Participants will receive no compensation (financial or otherwise) for taking part in this study.
 
-The researcher welcomes the answer to any queries - Dr. Dari Alhuwail ([dari.alhuwail@ku.edu.kw](mailto:dari.alhuwail@ku.edu.kw)).
+The researchers Dr. Dari Alhuwail  and Dr. Saad Alsharrah welcomes the answer to any queries – Primary Contact ([dari.alhuwail@ku.edu.kw](mailto:dari.alhuwail@ku.edu.kw)).
 
 Note that the form is not a tool to diagnose whether you have contracted COVID-19 or not. If you're feeling unwell, contact the [Ministry of Health Hotline (151)](tel:151).
