@@ -28,4 +28,5 @@ title: Information for Participants
 The researchers Dr. Dari Alhuwail and Dr. Saad Alsharrah welcome any queries – Primary Contact ([dari.alhuwail@ku.edu.kw](mailto:dari.alhuwail@ku.edu.kw)).
 
 
-> Note that the form is not a tool to diagnose whether you have contracted COVID-19 or not. If you're feeling unwell, contact the [Ministry of Health Hotline (151)](tel:151).
+
+**Note that the form is not a tool to diagnose whether you have contracted COVID-19 or not. If you're feeling unwell, contact the [Ministry of Health Hotline (151)](tel:151).**
