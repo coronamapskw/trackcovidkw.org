@@ -16,7 +16,7 @@ The aim of the COVID-19 tracker is to collect as much data as possible as quickl
 
 #### How does data collection help fight the COVID-19 crisis?
 
-This short-form helps predict and locate COVID-19 hotspots by evaluating how many people in the area have developed COVID-19 symptoms. Please fill out the form for each member of your home, including people who are feeling well and not showing any symptoms. . Comprehensive tests covering the whole country are not an option. Any additional information can, therefore, help to stop the virus from spreading.
+This short-form helps predict and locate COVID-19 hotspots by evaluating how many people in the area have developed COVID-19 symptoms. Please fill out the form for each member of your home, including people who are feeling well and not showing any symptoms. Comprehensive tests covering the whole country are not an option. Any additional information can, therefore, help to stop the virus from spreading.
 
 #### Is the campaign scientifically supported?
 
