@@ -26,6 +26,6 @@ The study has received ethical approval from the Ministry of Health (1451/2020).
 
 The data collected using the COVID-19 tracker does not allow any conclusions to be drawn about individuals. They contain the district at the block-level, age, gender, and some other information, but neither names nor other personal data. All data is transmitted encrypted.
 
-### Will the data be biased if, for example, more people fill out the questionnaire in densely populated areas?
+#### Will the data be biased if, for example, more people fill out the questionnaire in densely populated areas?
 
 This geographic bias can be corrected by dividing the number of cases by the total submissions. The resulting percentage or per district is more meaningful.
