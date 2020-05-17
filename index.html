@@ -4,11 +4,13 @@ layout: base
 <center>
 
 <div>
-    <img src="{{ site.base_url }}/logo.png" style="width: 33%;">
+    <img src="{{ site.base_url }}/logo_url.png" style="width: 50%;">
 </div>
 
+<nav id="main_languages">
 {% for l in site.data.languages %}
-<a href="{{l[0]}}">{{l[1].label}}</a><br>
+<a href="{{l[0]}}">{{l[1].label}}</a>
 {% endfor %}
+</nav>
 
 </center>
