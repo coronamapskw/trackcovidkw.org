@@ -9,7 +9,7 @@ title: أسئلة متكررة
 #### من يقف وراء هذه الحملة؟ ‪‬ 
 
 تم إنشاء استطلاع كوفيد-19 من قبل العديد من الباحثين المستقلين في مجتمع
-[CoronaMapsKW](https://www.coronamapskw.com) بدعم من مختبر الصحة
+[CoronaMapsKW](https://www.coronamapskw.com) ودعم من مختبر الصحة
 المكانية في [معهد دسمان للسكري](https://www.dasmaninstitute.org/).
 
 #### ما هو الهدف من الحملة؟ 
