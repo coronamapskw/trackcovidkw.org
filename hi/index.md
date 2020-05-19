@@ -2,24 +2,24 @@
 layout: default
 lang: hi
 ref: home
-title: Home
+title: घर
 ---
-# COVID-19 Community Tracking Kuwait
+# COVID-19 समुदाय ट्रैकिंग कुवैत
 
-COVID-19 is spreading rapidly in Kuwait and around the world!
+COVID-19 कुवैत में और दुनिया भर में तेजी से फैल रहा है!  
+रोग को नियंत्रित करने के लिए, संदिग्ध और अतिसंवेदनशील मामलों की पहचान यथाशीघ्र की जानी चाहिए ।
+चाहे आप बीमार हों या स्वस्थ, संक्रमित हों या नहीं, आपका डेटा जान बचाने में मदद कर
+सकता है। आदर्श रूप से, अपनी भागीदारी को दैनिक ([कैलेंडर ईवेंट सेट अप दोहराएं।](/TrackCOVIDKW.ics))
 
-In order to contain the disease, suspected and susceptible cases must be identified as early as possible.
+नीचे दिए गए फॉर्म को भरकर, COVID-19 प्रकोप से लड़ने में हमसे जुड़ें ।
 
-Whether you are sick or healthy, infected or not, your data can help save lives. Ideally, repeat your participation daily ([set up calendar event](/TrackCOVIDKW.ics)).
+<a
+href="https://survey123.arcgis.com/share/80e7e01a7cbb48d9a8a9b4232c766d4c"
+class="btn"> सर्वे शुरू करें →</a>
 
-Join us in fighting the COVID-19 outbreak, by filling out the form below.
+डेटा गुमनाम रूप से एकत्र किया जाता है और व्यक्तियों की पहचान की अनुमति नहीं देता
+है। स्टार्ट द सर्वे बटन पर क्लिक करके, आप इस अध्ययन में भाग लेने के लिए अपनी सहमति
+प्रदान कर रहे हैं। यदि आप भाग नहीं लेना चाहते हैं, तो बस पृष्ठ बंद करें।
 
-<a href="https://survey123.arcgis.com/share/80e7e01a7cbb48d9a8a9b4232c766d4c" class="btn">Start the Survey →</a>
-
-The data is collected anonymously and does not allow identification of individuals.
-By clicking Start the Survey Button, you are providing your consent to participate in this study. If you do not wish to participate, simply close the page.
-
-:heavy_exclamation_mark: **The survey form is not a tool to diagnose whether you have contracted COVID-19 or not. If you're feeling unwell, contact the [Ministry of Health hotline (151)](tel:151).**
-
-*Want to help protect your community but don’t see their language included ? We would love to get your help translating and reaching out to them ! Send us an email at [dari.alhuwail@ku.edu.kw](mailto:dari.alhuwail@ku.edu.kw)*
+**सर्वेक्षण प्रपत्र यह निदान करने के लिए एक उपकरण नहीं है कि आपने COVID-19 अनुबंधित किया है या नहीं।. यदि आप अस्वस्थ महसूस कर रहे हैं,  स्वास्थ्य हॉटलाइन मंत्रालय (१५१)से संपर्क करें।**
 
