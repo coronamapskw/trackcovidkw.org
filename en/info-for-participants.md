@@ -6,7 +6,7 @@ title: Information for Participants
 ---
 # Information for Participants
 
-**Study Title:** Identifying potential spread and outbreaks of COVID-19 in Kuwait: A Community-driven GIS Approach
+**Study Title:** Identifying potential spread and outbreaks of COVID-19 in Kuwait: A community-driven GIS approach
 
 **Study Goals:** This research aims to identify potential COVID-19 clusters within the community and map the possible cases in the GIS through utilizing a simple geo-enabled anonymous online survey. In order to contain the disease, suspected and susceptible cases must be identified as early as possible. Whether you are sick or healthy, infected or not, your data can help save lives. By filling out the form below, you are helping us to overcome this crisis together. Ideally, repeat your participation daily (set up calendar event). Join us in fighting the COVID-19 outbreak.
 
