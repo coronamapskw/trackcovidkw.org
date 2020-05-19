@@ -8,7 +8,7 @@ title: FAQs
 
 #### Who is behind this campaign?
 
-The COVID-19 tracker was created by several independent researchers in the [CoronaMapsKW](https://www.coronamapskw.com) community.
+The COVID-19 tracker was created by several independent researchers in the [CoronaMapsKW](https://www.coronamapskw.com) community and is supported by the GeoHealth Lab at the [Dasman Diabetes Institute](https://www.dasmaninstitute.org/).
 
 #### What is the goal of the campaign?
 

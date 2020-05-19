@@ -22,3 +22,5 @@ By clicking Start the Survey Button, you are providing your consent to participa
 **The survey form is not a tool to diagnose whether you have contracted COVID-19 or not.**
 
 **If you're feeling unwell, contact the [Ministry of Health hotline (151)](tel:151).**
+
+*Want to help protect your community but don’t see their language included ? We would love to get your help translating and reaching out to them ! Send us an email at [dari.alhuwail@ku.edu.kw](mailto:dari.alhuwail@ku.edu.kw)*
