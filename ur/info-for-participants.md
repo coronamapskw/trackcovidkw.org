@@ -2,31 +2,34 @@
 layout: default
 lang: ur
 ref: info-for-participants
-title: Information for Participants
+title: شرکاء کے لئے معلومات
 ---
-# Information for Participants
+# شرکاء کے لئے معلومات
 
-**Study Title:** Identifying potential spread and outbreaks of COVID-19 in Kuwait: A community-driven GIS approach
+**مطالعہ عنوان:**  کویت میں-19 کے ممکنہ پھیلاؤ اور پھیلاؤ کی شناخت: ایک کمیونٹی پر مبنی جی ایس اے کے نقطہ نظر
 
-**Study Goals:** This research aims to identify potential COVID-19 clusters within the community and map the possible cases in the GIS through utilizing a simple geo-enabled anonymous online survey. In order to contain the disease, suspected and susceptible cases must be identified as early as possible. Whether you are sick or healthy, infected or not, your data can help save lives. By filling out the form below, you are helping us to overcome this crisis together. Ideally, repeat your participation daily (set up calendar event). Join us in fighting the COVID-19 outbreak.
+**مطالعہ کے مقاصد:**  اس تحقیق کا مقصد کمیونٹی کے اندر ممکنہ COVID-19 کلسٹرز کی شناخت اور ایک سادہ جیو فعال گمنام آن لائن سروے کا استعمال کرتے ہوئے کے ذریعے جی آئی میں ممکنہ مقدمات کا نقشہ.اس بیماری پر مشتمل ہونے کے لئے ، مشتبہ اور حساس مقدمات کو جلد ہی ممکنہ طور پر شناخت کیا جانا چاہئے.چاہے آپ بیمار ہوں یا صحت مند ہوں ، متاثر ہوں یا نہیں ، آپ کے ڈیٹا کو زندگیاں بچانے میں مدد مل سکتی ہے ۔مندرجہ ذیل فارم کو بھرنے سے ، آپ ہمیں اس بحران پر قابو پانے میں مدد کر رہے ہیں.مثالی طور پر ، روزانہ آپ کی شرکت دہرائيں (کیلنڈر ایونٹ قائم کریں).COVID-19 پھیلنے کی لڑائی میں ہمارے ساتھ شامل ہوں.
 
-**Conditions for Participation:** Any person of the age of 21 years or above can participate in the study. A participant can provide the data directly for him-/herself or as a parent or guardian on behalf of a person under the age of 21.
+**شرکت کی شرائط:**  21 سال یا اس سے اوپر کی عمر کے کسی بھی شخص مطالعہ میں حصہ لے سکتے ہیں.ایک شریک اس کے لئے براہ راست اعداد و شمار فراہم کر سکتے ہیں-/خود یا ایک والدین یا سرپرست کے طور پر 21 کی عمر کے تحت ایک شخص کی طرف سے.
 
-**Data Protection:** The data is collected anonymously using an online form and does not allow identification of individuals. No personally-identifying information will be requested or collected.
+**کوائف تحفظ:**  ڈیٹا ایک آن لائن فارم کا استعمال کرتے ہوئے گمنام جمع کیا جاتا ہے اور افراد کی شناخت کی اجازت نہیں دیتا.کوئی ذاتی شناخت کی معلومات کی درخواست کی یا جمع کی جائے گی.
 
-**Research Procedure:**
+**تحقیق کے طریقہ کار:**
 
-* The study is designed as an online survey. Non-identifying health information related to COVID-19 will be collected.
-* Participation in this study is optional and not compulsory.
-* This study does not include any medical trials, medication, biopsy or interventional tests.
-* There are minimal risks involved in participating in this study. Your information will always remain confidential and secure. At no time will your name be associated with your response. All data collected will be stored on secure devices. Only the investigators listed in this study will have access to the raw data.
-* Upon your acceptance, you will be asked a series of questions that will take approximately 3 minutes to complete.
-* You can withdraw from the study at any time without giving reasons.
+* مطالعہ ایک آن لائن سروے کے طور پر ڈیزائن کیا گیا ہے.غیر شناخت شدہ صحت کی معلومات COVID سے متعلق ہے-19 جمع کیا جائے گا.
 
-**Compensation:** Participants will receive no compensation (financial or otherwise) for taking part in this study.
+* اس تحقیق میں شرکت اختیاری ہے اور لازمی نہیں ہے ۔
 
-The researchers Dr. Dari Alhuwail and Dr. Saad Alsharrah welcome any queries – Primary Contact ([dari.alhuwail@ku.edu.kw](mailto:dari.alhuwail@ku.edu.kw)).
+* یہ مطالعہ کسی بھی طبی مقدمات شامل نہیں ہے, ادویات, بایپسی یا انترواہی ٹیسٹ.
 
+* اس مطالعہ میں حصہ لینے میں ملوث کم سے کم خطرات ہیں.آپ کی معلومات ہمیشہ خفیہ اور محفوظ رہیں گی.کوئی وقت نہیں آپ کا نام آپ کے جواب کے ساتھ منسلک کیا جائے گا.محفوظ آلات پر جمع کردہ تمام کوائف ذخیرہ کیے جائیں گے ۔صرف اس تحقیق میں درج کردہ تفتیش کاروں کو خام ڈیٹا تک رسائی حاصل ہوگی ۔
 
+* آپ کی منظوری پر, آپ کو تقریبا لے جائے گا کہ سوالات کی ایک سیریز سے پوچھا جائے گا 3 مکمل کرنے کے لئے منٹ.
 
-**Note that the form is not a tool to diagnose whether you have contracted COVID-19 or not. If you're feeling unwell, contact the [Ministry of Health hotline (151)](tel:151).**
+* آپ کی وجوہات دینے کے بغیر کسی بھی وقت مطالعہ سے واپس لے سکتے ہیں.
+
+**معاوضہ:** شرکاء کو اس مطالعہ میں حصہ لینے کے لئے کوئی معاوضہ (مالی یا دوسری صورت میں) نہیں ملے گی.
+
+محققین ڈاکٹر دری الہوواال اور ڈاکٹر سعد الہم کسی بھی سوالات کے جواب کا خیر مقدم کرتے ہیں-بنیادی رابطہ (([dari.alhuwail@ku.edu.kw](mailto:dari.alhuwail@ku.edu.kw)).
+
+سروے فارم اس بات کی تشخیص کرنے کا ایک ذریعہ نہیں ہے کہ آیا آپ نے معاہدہ کیا ہے COVID-19 یا نہیں. اگر آپ ناپسندی محسوس کر رہے ہیں تو [ وزارت صحت ہاٹ لائن سے رابطہ کریں (151)](tel:151).) ۔

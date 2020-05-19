@@ -2,30 +2,34 @@
 layout: default
 lang: ur
 ref: faq
-title: FAQs
+title: عمومی سوالنامہ
 ---
-# FAQs
+# عمومی سوالنامہ
 
-#### Who is behind this campaign?
+#### اس مہم کے پیچھے کون ہے ؟ 
 
-The COVID-19 tracker was created by several independent researchers in the [CoronaMapsKW](https://www.coronamapskw.com) community and is supported by the GeoHealth Lab at the [Dasman Diabetes Institute](https://www.dasmaninstitute.org/).
+[CoronaMapsKW](https://www.coronamapskw.com) ٹریکر کوروناماپسکو کمیونٹی میں کئی آزاد محققین کی طرف سے پیدا کیا گیا تھا اور جیو ہیلتھ لیب کے ذریعہ اس کی تائید کرتا ہے
+[ڈسمان ذیابیطس انسٹی ٹیوٹ](https://www.dasmaninstitute.org/).
 
-#### What is the goal of the campaign?
 
-The aim of the COVID-19 tracker is to collect as much data as possible as quickly as possible from both healthy and infected people in Kuwait. Among other things, this data is intended to provide a more detailed picture of the COVID-19 situation in different parts of our country.
+#### مہم کا مقصد کیا ہے ؟ 
 
-#### How does data collection help fight the COVID-19 crisis?
+COVID-19 ٹریکر کا مقصد کویت میں صحت مند اور متاثرہ افراد دونوں سے ممکن حد تک جتنا ممکن ہو سکے کے طور پر زیادہ سے زیادہ ڈیٹا جمع کرنا ہے.دوسری چیزوں کے علاوہ ، یہ ڈیٹا ہمارے ملک کے مختلف حصوں میں COVID-19 کی صورتحال کی ایک زیادہ تفصیلی تصویر فراہم کرنے کا ارادہ رکھتا ہے.
 
-This short-form helps predict and locate COVID-19 hotspots by evaluating how many people in the area have developed COVID-19 symptoms. Please fill out the form for each member of your home, including people who are feeling well and not showing any symptoms. Comprehensive tests covering the whole country are not an option. Any additional information can, therefore, help to stop the virus from spreading.
+#### اعداد و شمار کا مجموعہ  COVID-19 بحران سے لڑنے میں کس طرح مدد کرتا ہے ؟ 
 
-#### Is the campaign scientifically supported?
+یہ مختصر فارم کی پیشن گوئی اور تلاش  COVID-19 hotspots کے علاقے میں کتنے لوگوں نے  COVID-19 کو تیار کیا ہے کا جائزہ لینے میں مدد کرتا ہے- علامات.براہ کرم اپنے گھر کے ہر رکن کے لئے فارم کو بھریں ، بشمول لوگوں کو جو اچھی طرح محسوس کرتے ہیں اور کوئی علامات نہیں دکھا رہے ہیں..پورے ملک کو ڈھکنے کے جامع ٹیسٹ ایک آپشن نہیں ہیں.کسی بھی اضافی معلومات کو ، اس وجہ سے وائرس کو پھیلانے سے روکنے میں مدد مل سکتی ہے.
 
-The study has received ethical approval from the Ministry of Health (1451/2020). The campaign was developed by members of the scientific community with scientific rigor in mind. We employ approaches similar to other international studies concerning the COVID-19 pandemic (e.g. [COVID-19 Tracking Switzerland](https://www.covidtracker.ch/en/)).
+#### کیا یہ مہم سائنسی حمایت یافتہ ہے ؟
 
-#### What happens to my data?
+مطالعہ وزارت صحت کی طرف سے اخلاقی منظوری موصول ہوئی ہے (1451/2020).اس مہم کو ذہن میں سائنسی نٹھرتا کے ساتھ سائنسی برادری کے ارکان کی طرف سے تیار کیا گیا تھا.ہم نے COVID کے بارے میں دیگر بین الاقوامی مطالعہ کی طرح نقطہ نظر کو ملازم COVID-19 عالمگیر وبا (مثال کے طور [COVID-19 Tracking Switzerland](https://www.covidtracker.ch/en/)).
 
-The data collected using the COVID-19 tracker does not allow any conclusions to be drawn about individuals. They contain the district at the block-level, age, gender, and some other information, but neither names nor other personal data. All data is transmitted encrypted.
 
-#### Will the data be biased if, for example, more people fill out the questionnaire in densely populated areas?
+#### میرے ڈیٹا پر کیا ہوتا ہے ؟ 
 
-This geographic bias can be corrected by dividing the number of cases by the total submissions. The resulting percentage or per district is more meaningful.
+COVID-19ٹریکر کا استعمال کرتے ہوئے جمع کردہ اعداد و شمار افراد کے بارے میں کسی بھی نتائج کو تیار کرنے کی اجازت نہیں دیتا.وہ بلاک کی سطح ، عمر ، جنس ، اور کچھ دوسری معلومات میں ضلع پر مشتمل ہیں ، لیکن نہ نام اور نہ ہی دیگر ذاتی ڈیٹا.تمام کوائف خفیہ طور پر منتقل کیے جاتے ہیں ۔
+
+
+#### کیا اعداد و شمار کو جانبدار کیا جائے گا ، مثال کے طور پر ، زیادہ سے زیادہ لوگ گنجان آباد علاقوں میں سوالنامہ کو بھریں گے ؟ 
+
+یہ جغرافیائی تعصب کل جمع کی طرف سے مقدمات کی تعداد تقسیم کی طرف سے درست کیا جا سکتا ہے.اس کے نتیجے میں فی صد یا فی ضلع زیادہ بامعنی ہے ۔

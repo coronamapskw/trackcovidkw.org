@@ -2,24 +2,31 @@
 layout: default
 lang: ur
 ref: home
-title: Home
+title: گھر
 ---
-# COVID-19 Community Tracking Kuwait
 
-COVID-19 is spreading rapidly in Kuwait and around the world!
+# COVID-19 کمیونٹی ٹریکنگ کویت
 
-In order to contain the disease, suspected and susceptible cases must be identified as early as possible.
+COVID-19 کویت اور دنیا بھر میں تیزی سے پھیل رہا ہے!
 
-Whether you are sick or healthy, infected or not, your data can help save lives. Ideally, repeat your participation daily ([set up calendar event](/TrackCOVIDKW.ics)).
+اس بیماری پر مشتمل ہونے کے لئے ، مشتبہ اور حساس مقدمات کو جلد ہی ممکنہ
+طور پر شناخت کیا جانا چاہئے.
 
-Join us in fighting the COVID-19 outbreak, by filling out the form below.
+چاہے آپ بیمار ہوں یا صحت مند ہوں ، متاثر ہوں یا نہیں ، آپ کے ڈیٹا کو
+زندگیاں بچانے میں مدد مل سکتی ہے ۔ مثالی طور پر ، روزانہ آپ کی شرکت
+دہرائيں ([کیلنڈر ایونٹ قائم کریں](/TrackCOVIDKW.ics)).
 
-<a href="https://survey123.arcgis.com/share/80e7e01a7cbb48d9a8a9b4232c766d4c" class="btn">Start the Survey →</a>
+ذیل میں فارم بھرنے سے COVID-19 پھیلنے کی مطالعہ میں
 
-The data is collected anonymously and does not allow identification of individuals.
-By clicking Start the Survey Button, you are providing your consent to participate in this study. If you do not wish to participate, simply close the page.
+<a
+href="https://survey123.arcgis.com/share/80e7e01a7cbb48d9a8a9b4232c766d4c"
+class="btn">ہمارے ساتھ شامل ہوں. →</a>
 
-:heavy_exclamation_mark: **The survey form is not a tool to diagnose whether you have contracted COVID-19 or not. If you're feeling unwell, contact the [Ministry of Health hotline (151)](tel:151).**
+اعداد و شمار گمنام جمع کیا جاتا ہے اور افراد کی شناخت کی اجازت نہیں
+دیتا. سروے کے بٹن شروع کرنے کے بعد ، آپ اس مطالعہ میں حصہ لینے کے لئے
+آپ کی رضامندی فراہم کر رہے ہیں. اگر آپ حصہ لینے کے لئے نہیں کرنا چاہتے
+ہیں تو ، صرف صفحے کو بند کریں.
 
-*Want to help protect your community but don’t see their language included ? We would love to get your help translating and reaching out to them ! Send us an email at [dari.alhuwail@ku.edu.kw](mailto:dari.alhuwail@ku.edu.kw)*
+سروے فارم اس بات کی تشخیص کرنے کا ایک ذریعہ نہیں ہے کہ آیا آپ نے معاہدہ کیا ہے COVID-19 یا نہیں. اگر آپ ناپسندی محسوس کر رہے ہیں تو [ وزارت صحت ہاٹ لائن سے رابطہ کریں (151)](tel:151).) ۔
+
 

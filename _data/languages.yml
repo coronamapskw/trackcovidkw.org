@@ -7,3 +7,7 @@ en:
 fa:
   label: فارسی
   dir: rtl
+
+ur:
+  label: اُرْدُوْ
+  dir: rtl
