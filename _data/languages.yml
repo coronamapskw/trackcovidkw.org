@@ -4,3 +4,12 @@ ar:
  en:
   label: English
   dir: ltr
+ur:
+  label: اُرْدُوْ
+  dir: rtl
+hi:
+  label: हिन्दी
+  dir: ltr
+fa:
+  label: فارسی
+  dir: rtl
