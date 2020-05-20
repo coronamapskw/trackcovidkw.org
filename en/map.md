@@ -9,6 +9,6 @@ title: Map
 
 <div class="container">
 
-<iframe src="https://arcgis.com/apps/View/index.html?appid=a472c51ac8e748d58d0a8f7d66a824cd" title="TRackCOVIDKW Contribution Map"></iframe>
+<iframe src="https://arcgis.com/apps/View/index.html?appid=a472c51ac8e748d58d0a8f7d66a824cd" title="TRackCOVIDKW Contribution Map" width="600" height="400"></iframe>
 
 </div>
