@@ -1,3 +1,9 @@
+ar:
+  label: العربية
+  dir: rtl
+ en:
+  label: English
+  dir: ltr
 ur:
   label: اُرْدُوْ
   dir: rtl
@@ -6,10 +12,4 @@ hi:
   dir: ltr
 fa:
   label: فارسی
-  dir: rtl
-en:
-  label: English
-  dir: ltr
-ar:
-  label: العربية
   dir: rtl
