@@ -2,30 +2,40 @@
 layout: default
 lang: fa
 ref: info-for-participants
-title: Information for Participants
+title: اطلاعات برای شرکت کنندگان
 ---
-# Information for Participants
+# اطلاعات برای شرکت کنندگان
 
-**Study Title:** Identifying potential spread and outbreaks of COVID-19 in Kuwait: A community-driven GIS approach
+**مطالعه عنوان:** شناسایی گسترش بالقوه و شیوع ويروس كورونا COVID-19 در کویت: یک رویکرد انجمن GIS
 
-**Study Goals:** This research aims to identify potential COVID-19 clusters within the community and map the possible cases in the GIS through utilizing a simple geo-enabled anonymous online survey. In order to contain the disease, suspected and susceptible cases must be identified as early as possible. Whether you are sick or healthy, infected or not, your data can help save lives. By filling out the form below, you are helping us to overcome this crisis together. Ideally, repeat your participation daily (set up calendar event). Join us in fighting the COVID-19 outbreak.
+**اهداف مطالعه:** این تحقیق با هدف شناسایی مکان های احتمالی شیوع ويروس كورونا COVID-19 در جامعه و شناسایی موارد احتمالی در سیستم های اطلاعات جغرافیایی از طریق استفاده از یک نظرسنجی آنلاین ناشناس ساده انجام شده است. برای مهار این بیماری ، موارد مشکوک و آسیب پذیر باید در اسرع وقت شناسایی شود. این که آیا شما بیمار هستید ، از نظر سلامتی ، کورونا ویروس دارید یا نه ، نظر سنجى های شما می تواند باعث نجات جان بسيارى از نفوس شود. با پر کردن فرم زیر به ما کمک می کنید تا با هم بر این بحران غلبه کنیم. در حالت ایده آل ، روزانه مشارکت خود را تکرار کنید (رویداد تقویم را تنظیم کنید).
 
-**Conditions for Participation:** Any person of the age of 21 years or above can participate in the study. A participant can provide the data directly for him-/herself or as a parent or guardian on behalf of a person under the age of 21.
 
-**Data Protection:** The data is collected anonymously using an online form and does not allow identification of individuals. No personally-identifying information will be requested or collected.
+**شرایط مشارکت:** هر فرد در سن 21 سال یا بالاتر می تواند در نظر سنجى شرکت کند. یک شرکت کننده می تواند از طریق شخص زیر 21 سال نظر سنجى ها را مستقیماً برای خود یا به عنوان والدین یا سرپرست ارائه دهد.
 
-**Research Procedure:**
+**حفاظت از نظر سنجى ها:** نظر سنجى ها به صورت ناشناس با استفاده از فرم آنلاین جمع آوری می شوند و امکان شناسایی افراد را نمی دهند. هیچ گونه اطلاعات شخصى جهت شناسایی افراد درخواست یا جمع آوری نمی شود.
 
-* The study is designed as an online survey. Non-identifying health information related to COVID-19 will be collected.
-* Participation in this study is optional and not compulsory.
-* This study does not include any medical trials, medication, biopsy or interventional tests.
-* There are minimal risks involved in participating in this study. Your information will always remain confidential and secure. At no time will your name be associated with your response. All data collected will be stored on secure devices. Only the investigators listed in this study will have access to the raw data.
-* Upon your acceptance, you will be asked a series of questions that will take approximately 3 minutes to complete.
-* You can withdraw from the study at any time without giving reasons.
 
-**Compensation:** Participants will receive no compensation (financial or otherwise) for taking part in this study.
+**مراحل تحقيق:**
+* این مطالعه به عنوان یک نظرسنجی آنلاین ناشناس از فرد طراحی شده است.
 
-The researchers Dr. Dari Alhuwail and Dr. Saad Alsharrah welcome any queries – Primary Contact ([dari.alhuwail@ku.edu.kw](mailto:dari.alhuwail@ku.edu.kw)).
+* اطلاعات بهداشتی نامشخص مربوط به ظهور ويروس كورونا COVID-19 جمع آوری می شود.
+
+* مشارکت در این مطالعه اختیاری است و نه اجباری.
+
+* این مطالعه شامل هیچ آزمایش پزشکی ، دادن داروها ، گرفتن نمونه های بیولوژیکی یا انجام معاینات مداخله ای نیست.
+
+* در صورت توافق برای مشارکت در این تحقیق ، محقق متعهد می شود که حریم خصوصی و محرمانه بودن اطلاعات را حفظ کند و آن را خارج از چارچوب تحقیق منتشر نکند.
+
+* اگر قبول دارید در این تحقیق شرکت کنید ، می توانید در هر زمان و بدون دلیل از اين مطالعه خارج شوید.
+
+* اگر شما موافق به شرکت در این تحقیق هستید ، لطفاً به پرسشنامه پیوست پاسخ دهید و تقریباً 3 دقیقه طول می کشد تا به آن پاسخ دهید.
+
+**جبران خسارت:** شرکت کنندگان هیچ گونه جبران خسارت (مالی یا دیگری) را برای شرکت در این مطالعه دریافت نمی کنند.
+
+محققان از پاسخگویی به هرگونه سؤال استقبال می کنند - د. ضاري الحويل و د. سعد الشراح – للتواصل: ([hello@trackcovidkw](mailto:hello@trackcovidkw.com))
+
+اين فرم نظرسنجی وسيله اى براى تشخيص ويروس كورونا نيست. در صورت بروز هرگونه علائم یا عوارض، با شماره [تلفن وزارت بهداشت (151) تماس بگیرید](tel:151).
 
 
 

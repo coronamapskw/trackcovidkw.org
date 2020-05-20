@@ -2,30 +2,34 @@
 layout: default
 lang: fa
 ref: faq
-title: FAQs
+title: پرسش های متداول 
 ---
-# FAQs
+# پرسش های متداول 
 
-#### Who is behind this campaign?
+#### حمايت كننده اين کمپین كيست؟
 
-The COVID-19 tracker was created by several independent researchers in the [CoronaMapsKW](https://www.coronamapskw.com) community and is supported by the GeoHealth Lab at the [Dasman Diabetes Institute](https://www.dasmaninstitute.org/).
+انجمن پیگیری ويروس كورونا  COVID-19 به توسط چندین محقق مستقل در جامعه  [CoronaMapsKW](https://www.coronamapskw.com) ایجاد شده است، و توسط آزمایشگاه GeoHealth در مؤسسه [Dasman Diabetes ](https://www.dasmaninstitute.org/) پشتیبانی می شود.
 
-#### What is the goal of the campaign?
 
-The aim of the COVID-19 tracker is to collect as much data as possible as quickly as possible from both healthy and infected people in Kuwait. Among other things, this data is intended to provide a more detailed picture of the COVID-19 situation in different parts of our country.
+#### هدف اين کمپین چیست؟
 
-#### How does data collection help fight the COVID-19 crisis?
+هدف از انجمن پیگیری ويروس كورونا  COVID-19  جمع آوری هرچه سریعتر اطلاعات از افراد سالم و آلوده در کویت است. در میان چیزهای دیگر، این نظر سنجى ها درنظر گرفته شده است تا تصویری دقیق تر از وضعیت گسترش ويروس كورونا COVID-19 در مناطق مختلف کشور ما ارائه دهد.
 
-This short-form helps predict and locate COVID-19 hotspots by evaluating how many people in the area have developed COVID-19 symptoms. Please fill out the form for each member of your home, including people who are feeling well and not showing any symptoms. Comprehensive tests covering the whole country are not an option. Any additional information can, therefore, help to stop the virus from spreading.
+#### چگونه جمع آوری این نظر سنجى ها به مبارزه با بحران ويروس كورونا COVID-19 کمک می کند؟
 
-#### Is the campaign scientifically supported?
+این فرم نظرسنجی کوتاه كمك مى كند كه تعداد افراد در منطقه با علائم ويروس كورونا COVID-19 را پیش بینی و مکان یابی کند. لطفاً فرم مربوط به هر یک از اعضای خانواده خود را ، حتى افرادی که احساس خوبی دارند و علائمی را نشان نمی دهند ، پر کنید. آزمايشهاى كلى كه در كل کشور موجود است راه حل مناسب نیست. بنابراین ، هر گونه اطلاعات اضافی می تواند به جلوگیری از انتشار ویروس کمک کند.
 
-The study has received ethical approval from the Ministry of Health (1451/2020). The campaign was developed by members of the scientific community with scientific rigor in mind. We employ approaches similar to other international studies concerning the COVID-19 pandemic (e.g. [COVID-19 Tracking Switzerland](https://www.covidtracker.ch/en/)).
 
-#### What happens to my data?
+#### آیا این کمپین از نظر علمی پشتیبانی می شود؟
 
-The data collected using the COVID-19 tracker does not allow any conclusions to be drawn about individuals. They contain the district at the block-level, age, gender, and some other information, but neither names nor other personal data. All data is transmitted encrypted.
+این مطالعه از وزارت بهداشت (1451/2020) تأیید شده است. این کمپین توسط اعضای جامعه علمی با دقت در نظر گرفته شده است. ما از رویکردهای مشابه سایر مطالعات بین المللی در مورد همه گیری COVID-19 استفاده می کنیم (به عنوان مثال  [COVID-19 Tracking Switzerland](https://www.covidtracker.ch/en/)).
 
-#### Will the data be biased if, for example, more people fill out the questionnaire in densely populated areas?
 
-This geographic bias can be corrected by dividing the number of cases by the total submissions. The resulting percentage or per district is more meaningful.
+#### برای نظر سنجى های من چه اتفاقی می افتد؟
+
+نظر سنجى های جمع آوری شده براى استفادهء پیگیری ويروس كورونا  COVID-19 راجع به اطلاعات شخصى افراد نیست. آنها حاوی استان در سطح منطقة(تا بلوک)، سن، جنس، و برخی اطلاعات دیگر هستند، اما اسامى و اطلاعات شخصی دیگر جمع آوری نمی شود. کلیه نظر سنجى ها به صورت رمزگذاری شده ذخیره می شوند.
+
+
+#### آیا به عنوان مثال ، اگر افراد بیشتری پرسشنامه را در مناطق پرجمعیت پر کنند ، نظر سنجى ها براى بقيه افراد متفاوت خواهد بود؟
+
+این تفاوت جغرافیایی را می توان با تقسیم تعداد مبتلايان بر تعداد كل بررسی های ارسالی اصلاح کرد. نتيجه نظر سنجى ها بر اساس آمار كه درصد مبتلايان و يا بر حسب مناطق دريافت ميشود بيشتر قابل اطمينان خواهد بود.

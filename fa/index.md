@@ -2,24 +2,29 @@
 layout: default
 lang: fa
 ref: home
-title: Home
+title: صفحه آغاز 
 ---
-# COVID-19 Community Tracking Kuwait
+# انجمن پیگیری ويروس كورونا  COVID-19 در کویت
 
-COVID-19 is spreading rapidly in Kuwait and around the world!
+ويروس كورونا به سرعت در كويت و در سراسر جهان در حال گسترش است!
 
-In order to contain the disease, suspected and susceptible cases must be identified as early as possible.
+براى مهار كردن اين بيمارى، موارد مشكوك بايد در اسرع وقت شناسایی شود.
 
-Whether you are sick or healthy, infected or not, your data can help save lives. Ideally, repeat your participation daily ([set up calendar event](/TrackCOVIDKW.ics)).
+این که آیا شما بیمار هستید یا سالم ، يا آلوده به ويروس كورونا هستید،
+اطلاعات شما می تواند باعث نجات جان بسيارى از نفوس شود. در حالت ایده آل
+، روزانه مشارکت خود را تکرار کنید ([رویداد تقویم را تنظیم کنید](/TrackCOVIDKW.ics)).
 
-Join us in fighting the COVID-19 outbreak, by filling out the form below.
+براى مبارزه با شيوع بيمارى ويروس كورونا، با پر کردن فرم زیر به ما
+بپیوندید.
 
-<a href="https://survey123.arcgis.com/share/80e7e01a7cbb48d9a8a9b4232c766d4c" class="btn">Start the Survey →</a>
+<a href="https://survey123.arcgis.com/share/80e7e01a7cbb48d9a8a9b4232c766d4c" class="btn">شروع نظر سنجی →</a>
 
-The data is collected anonymously and does not allow identification of individuals.
-By clicking Start the Survey Button, you are providing your consent to participate in this study. If you do not wish to participate, simply close the page.
+اطلاعات داده شده به صورت ناشناس جمع آوری شده و امکان شناسایی افراد را
+نمی دهد. با کلیک روی شروع نظر سنجی، رضایت خود را برای شرکت در این
+مطالعه ارائه می کنید. اگر مايل به شركت در نظر سنجى نيستيد ، کافی است
+صفحه را ببندید.
 
-:heavy_exclamation_mark: **The survey form is not a tool to diagnose whether you have contracted COVID-19 or not. If you're feeling unwell, contact the [Ministry of Health hotline (151)](tel:151).**
+اين فرم نظرسنجی وسيله اى براى تشخيص ويروس كورونا نيست. در صورت بروز هرگونه علائم یا عوارض، با شماره [تلفن وزارت بهداشت (151) تماس بگیرید](tel:151).
 
-*Want to help protect your community but don’t see their language included ? We would love to get your help translating and reaching out to them ! Send us an email at [dari.alhuwail@ku.edu.kw](mailto:dari.alhuwail@ku.edu.kw)*
+
 

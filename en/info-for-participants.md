@@ -25,7 +25,7 @@ title: Information for Participants
 
 **Compensation:** Participants will receive no compensation (financial or otherwise) for taking part in this study.
 
-The researchers Dr. Dari Alhuwail and Dr. Saad Alsharrah welcome any queries – Primary Contact ([dari.alhuwail@ku.edu.kw](mailto:dari.alhuwail@ku.edu.kw)).
+The researchers Dr. Dari Alhuwail and Dr. Saad Alsharrah welcome any queries – Primary Contact: Dari Alhuwail ([hello@trackcovidkw.com](mailto:hello@trackcovidkw.com))).
 
 
 
