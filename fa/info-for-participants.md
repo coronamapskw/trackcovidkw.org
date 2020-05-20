@@ -38,5 +38,3 @@ title: اطلاعات برای شرکت کنندگان
 اين فرم نظرسنجی وسيله اى براى تشخيص ويروس كورونا نيست. در صورت بروز هرگونه علائم یا عوارض، با شماره [تلفن وزارت بهداشت (151) تماس بگیرید](tel:151).
 
 
-
-**Note that the form is not a tool to diagnose whether you have contracted COVID-19 or not. If you're feeling unwell, contact the [Ministry of Health hotline (151)](tel:151).**
