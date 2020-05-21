@@ -1,10 +1,10 @@
 ---
 layout: default
 lang: en
-ref: map
-title: Map
+ref: submissions
+title: Submissions
 ---
-# COVID-19 Community Tracking Map
+# COVID-19 Community Submissions
 ### Do your part and contribute to the map to save lives!
 <a href="https://survey123.arcgis.com/share/80e7e01a7cbb48d9a8a9b4232c766d4c" class="btn">Take the Survey →</a> 
 
