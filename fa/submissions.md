@@ -10,4 +10,3 @@ title: تعداد ارسال ها
 
 <div class="embed"><iframe src="https://arcgis.com/apps/opsdashboard/index.html#/0052f0715f0944db868b1ed2dd868feb" title="TRackCOVIDKW Contribution Totals"  frameborder="0" allowfullscreen=""></iframe></div>
 
-<div class="embed"><iframe src="https://arcgis.com/apps/opsdashboard//index.html#/271d124a5b8e460ea4decf79a757a02a" title="TRackCOVIDKW Contribution Totals"  frameborder="0" allowfullscreen=""></iframe></div>
