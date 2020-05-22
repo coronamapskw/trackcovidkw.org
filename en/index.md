@@ -14,7 +14,7 @@ Whether you are sick or healthy, infected or not, your data can help save lives.
 
 Join us in fighting the COVID-19 outbreak, by filling out the form below.
 
-<a href="https://arcg.is/1WaS5b0" class="btn">Start the Survey →</a>
+<a href="https://survey123.arcgis.com/share/3c5158cd793d4cc7a80d8d3fb3446b07?lang=en" class="btn">Start the Survey →</a>
 
 The data is collected anonymously and does not allow identification of individuals.
 By clicking Start the Survey Button, you are providing your consent to participate in this study. If you do not wish to participate, simply close the page.
