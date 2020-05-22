@@ -15,7 +15,8 @@ layout: compress
     <style>
       html {
         --main-color: #3E4046;
-        --hover-color: black;
+        --link-color: #007bff;
+        --hover-color: #1768bf;
         --borders-color: #E1E2EA;
         --shaded-bg-color: ghostwhite;
         --main-font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
@@ -32,11 +33,11 @@ layout: compress
       }
 
       a {
-        color: var(--main-color);
+        color: var(--link-color);
       }
 
       a svg {
-        fill: var(--main-color);
+        fill: var(--link-color);
       }
 
       a:hover {
@@ -124,6 +125,7 @@ layout: compress
 
       header nav a {
         display: block;
+        color: var(--main-color);
         padding: 1em;
         text-decoration: none;
       }
@@ -147,7 +149,12 @@ layout: compress
 
       #languages a {
         text-decoration: none;
+        color: var(--main-color);
         padding: 0.25em;
+      }
+
+      #languages a:hover {
+        color: var(--hover-color);
       }
 
       nav#languages {
@@ -214,11 +221,16 @@ layout: compress
         display: block;
         padding: 1em;
         text-decoration: none;
-
+        color: var(--main-color);
       }
 
       #social-icons a svg {
         height: 2.5rem;
+        fill: var(--main-color);
+      }
+
+      #social-icons a svg:hover {
+        fill: var(--hover-color);
       }
     </style>
     <title>{{ page.title }} &mdash; {{ site.title }}</title>
