@@ -10,6 +10,9 @@ ur:
 hi:
   label: हिन्दी
   dir: ltr
+ta:
+  label: தமிழ்
+  dir: ltr
 fa:
   label: فارسی
   dir: rtl
