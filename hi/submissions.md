@@ -10,5 +10,5 @@ title: पोस्ट
 href="https://survey123.arcgis.com/share/222d0a19757847c99fe3b0674e2ad932?lang=hi"
 class="btn"> सर्वे शुरू करें →</a>
 
-#### सर्वेक्षण प्रति उपनगर
+#### प्रति आवासीय ब्लॉक में सर्वेक्षण प्रस्तुत करना
 <div class="embed"><iframe src="https://arcgis.com/apps/TimeAware/index.html?appid=205b71385fb54afeaced998c2c3de4ac" title="TRackCOVIDKW Contribution Totals"  frameborder="0" allowfullscreen=""></iframe></div>

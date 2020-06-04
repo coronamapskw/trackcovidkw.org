@@ -13,5 +13,5 @@ title: சமர்ப்பிப்புகள்
 href="https://survey123.arcgis.com/share/222d0a19757847c99fe3b0674e2ad932?lang=ta"
 class="btn"> கணக்கெடுப்பை ஆரம்பியுங்கள் →</a>
 
-#### सर्वेक्षण प्रति उपनगर
+#### குடியிருப்புத் தொகுதிக்கு கணக்கெடுப்பு சமர்ப்பிப்புகள்
 <div class="embed"><iframe src="https://arcgis.com/apps/TimeAware/index.html?appid=205b71385fb54afeaced998c2c3de4ac" title="TRackCOVIDKW Contribution Totals"  frameborder="0" allowfullscreen=""></iframe></div>
