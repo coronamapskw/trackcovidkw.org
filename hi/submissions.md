@@ -7,7 +7,7 @@ title: पोस्ट
 # कुल प्रस्तुतियाँ
 ### अपना हिस्सा करो और जीवन बचाने के लिए नक्शे में योगदान करो!
 <a
-href="https://survey123.arcgis.com/share/3c5158cd793d4cc7a80d8d3fb3446b07?lang=hi"
+href="https://survey123.arcgis.com/share/222d0a19757847c99fe3b0674e2ad932?lang=hi"
 class="btn"> सर्वे शुरू करें →</a>
 
 #### सर्वेक्षण प्रति उपनगर

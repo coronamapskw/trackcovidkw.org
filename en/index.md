@@ -6,15 +6,16 @@ title: Home
 ---
 # COVID-19 Community Tracking Kuwait
 
+Join us in fighting the COVID-19 outbreak, by filling out the form below.
+
+<a href="https://survey123.arcgis.com/share/222d0a19757847c99fe3b0674e2ad932?lang=en" class="btn">Start the Survey →</a>
+
 COVID-19 is spreading rapidly in Kuwait and around the world!
 
 In order to contain the disease, suspected and susceptible cases must be identified as early as possible.
 
 Whether you are sick or healthy, infected or not, your data can help save lives. Ideally, repeat your participation daily (![](data:image/svg+xml;utf8,{% include icons/calendar-check.svg %}) [set up calendar event](/TrackCOVIDKW.ics)).
 
-Join us in fighting the COVID-19 outbreak, by filling out the form below.
-
-<a href="https://survey123.arcgis.com/share/3c5158cd793d4cc7a80d8d3fb3446b07?lang=en" class="btn">Start the Survey →</a>
 
 The data is collected anonymously and does not allow identification of individuals.
 By clicking Start the Survey Button, you are providing your consent to participate in this study. If you do not wish to participate, simply close the page.
