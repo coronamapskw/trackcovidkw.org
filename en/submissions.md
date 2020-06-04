@@ -10,6 +10,3 @@ title: Submissions
 
 #### Survey submissions per residential block
 <div class="embed"><iframe src="https://arcgis.com/apps/TimeAware/index.html?appid=205b71385fb54afeaced998c2c3de4ac" title="TRackCOVIDKW Contribution Totals"  frameborder="0" allowfullscreen=""></iframe></div>
-
-#### Survey Stats
-<div class="embed"><iframe src="https://arcgis.com/apps/opsdashboard/index.html#/e13ffc2a3ec84180adb1156a29b7cf12" title="TRackCOVIDKW Submission Stats"  frameborder="0" allowfullscreen=""></iframe></div>
