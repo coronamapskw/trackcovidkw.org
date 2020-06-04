@@ -10,4 +10,4 @@ title: پوسٹس
 href="https://survey123.arcgis.com/share/222d0a19757847c99fe3b0674e2ad932?lang=ur"
 class="btn">ہمارے ساتھ شامل ہوں. ←</a>
 #### فی مضافاتی سروے گذارشات
-<div class="embed"><iframe src="https://arcgis.com/apps/TimeAware/index.html?appid=3bd46ea4c176495da28c65170610128d" title="TRackCOVIDKW Contribution Totals"  frameborder="0" allowfullscreen=""></iframe></div>
+<div class="embed"><iframe src="https://arcgis.com/apps/TimeAware/index.html?appid=205b71385fb54afeaced998c2c3de4ac" title="TRackCOVIDKW Contribution Totals"  frameborder="0" allowfullscreen=""></iframe></div>
