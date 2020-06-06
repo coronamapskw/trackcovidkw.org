@@ -10,6 +10,11 @@ Join us in fighting the COVID-19 outbreak, by filling out the form below.
 
 <a href="https://survey123.arcgis.com/share/222d0a19757847c99fe3b0674e2ad932?lang=en" class="btn">Start the Survey →</a>
 
+<div class="embed"><iframe
+src="https://arcgis.com/apps/opsdashboard/index.html#/b7e0a01c38b24d7ab213a6660cc4ea40"
+title="TRackCOVIDKW Contribution Totals"  frameborder="0"
+allowfullscreen=""></iframe></div>
+
 COVID-19 is spreading rapidly in Kuwait and around the world!
 
 In order to contain the disease, suspected and susceptible cases must be identified as early as possible.

@@ -12,6 +12,11 @@ title: வீடு
 href="https://survey123.arcgis.com/share/222d0a19757847c99fe3b0674e2ad932?lang=ta"
 class="btn"> கணக்கெடுப்பை ஆரம்பியுங்கள் →</a>
 
+<div class="embed"><iframe
+src="https://arcgis.com/apps/opsdashboard/index.html#/b7e0a01c38b24d7ab213a6660cc4ea40"
+title="TRackCOVIDKW Contribution Totals"  frameborder="0"
+allowfullscreen=""></iframe></div>
+
 குவைத் மற்றும் உலகம் முழுவதும் COVID-19 வேகமாகப் பரவி வருகிறது!
 நோயைக் கட்டுப்படுத்துவதற்கு, நோய் இருக்கலாமென்ற சந்தேகத்திற்குரியவர்கள் மற்றும் நோயால் எளிதில் பாதிக்கப்படக்கூடியவர்கள் முடிந்தளவு விரைவில் அடையாளம் காணப்படவேண்டும்.
 நீங்கள் நோய்வாய்ப்பட்டிருந்தாலென்ன, ஆரோக்கியமாக இருந்தாலென்ன, தொற்றுக்குட்பட்டு
