@@ -15,7 +15,7 @@ class="btn">شروع نظر سنجی ←</a>
 <div class="embed"><iframe
 src="https://arcgis.com/apps/opsdashboard/index.html#/b7e0a01c38b24d7ab213a6660cc4ea40"
 title="TRackCOVIDKW Contribution Totals"  frameborder="0"
-width="50" height="50"></iframe></div>
+allowfullscreen=""></iframe></div>
 
 
 ويروس كورونا به سرعت در كويت و در سراسر جهان در حال گسترش است!
