@@ -7,7 +7,7 @@ title: Home
 # COVID-19 Community Tracking Kuwait
 
 Join us in fighting the COVID-19 outbreak, by filling out the form below. 
-Whether you are sick or healthy, infected or not, your data can help save lives. Ideally, repeat your participation daily (![](data:image/svg+xml;utf8,{% include icons/calendar-check.svg %}) [set up calendar event](/TrackCOVIDKW.ics)).
+Whether you are sick or healthy, infected or not, your data can help save lives. Ideally, **repeat your participation daily** (![](data:image/svg+xml;utf8,{% include icons/calendar-check.svg %}) [set up daily reminder](/TrackCOVIDKW.ics)).
 
 <a href="https://survey123.arcgis.com/share/222d0a19757847c99fe3b0674e2ad932?lang=en" class="btn">Tell us how you feel →</a>
 #### Survey submissions per residential block
