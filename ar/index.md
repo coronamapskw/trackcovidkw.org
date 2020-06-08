@@ -13,7 +13,7 @@ title: الرئيسية
 
 <a
 href="https://survey123.arcgis.com/share/222d0a19757847c99fe3b0674e2ad932?lang=ar"
-class="btn">شارك في الاستطلاع ←</a>
+class="btn">ساهم الآن ←</a>
 
 من الناحية
 المثالية، كرر مشاركتك يوميًا (![](data:image/svg+xml;utf8,{% include icons/calendar-check.svg %}) [بتنزيل التذكير اليومي عن طريق التقويم](/TrackCOVIDKW.ics)).
