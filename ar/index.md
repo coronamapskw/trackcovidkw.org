@@ -21,7 +21,7 @@ class="btn">ساهم الآن ←</a>
 #### خريطة المشاركات حسب القطع السكنية
 
 <div class="embed"><iframe
-src="https://arcgis.com/apps/opsdashboard/index.html#/b7e0a01c38b24d7ab213a6660cc4ea40"
+src="https://arcgis.com/apps/InformationLookup/index.html?appid=a15d9d55ef5649de8958c32ca4514f57"
 title="TRackCOVIDKW Contribution Totals"  frameborder="0"
 allowfullscreen=""></iframe></div>
 
